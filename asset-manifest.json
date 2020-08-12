@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/smartigo-app/static/css/main.264af3fe.chunk.css",
+    "main.js": "/smartigo-app/static/js/main.40b07b1d.chunk.js",
+    "main.js.map": "/smartigo-app/static/js/main.40b07b1d.chunk.js.map",
+    "runtime-main.js": "/smartigo-app/static/js/runtime-main.58c1db5a.js",
+    "runtime-main.js.map": "/smartigo-app/static/js/runtime-main.58c1db5a.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/smartigo-app/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.92cd97c5.chunk.js": "/smartigo-app/static/js/2.92cd97c5.chunk.js",
+    "static/js/2.92cd97c5.chunk.js.map": "/smartigo-app/static/js/2.92cd97c5.chunk.js.map",
+    "index.html": "/smartigo-app/index.html",
+    "precache-manifest.2d7be19b1b269b62a1281ad1677edfa9.js": "/smartigo-app/precache-manifest.2d7be19b1b269b62a1281ad1677edfa9.js",
+    "service-worker.js": "/smartigo-app/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/smartigo-app/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.264af3fe.chunk.css.map": "/smartigo-app/static/css/main.264af3fe.chunk.css.map",
+    "static/js/2.92cd97c5.chunk.js.LICENSE.txt": "/smartigo-app/static/js/2.92cd97c5.chunk.js.LICENSE.txt",
+    "static/media/icong.png": "/smartigo-app/static/media/icong.0b7e5cc5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58c1db5a.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.92cd97c5.chunk.js",
+    "static/css/main.264af3fe.chunk.css",
+    "static/js/main.40b07b1d.chunk.js"
+  ]
+}
